@@ -1,0 +1,5 @@
+1. AWP rapid fire sheet completion.
+2. JDBC BookDao assignment with MySql (xampp).
+3. First JSP page.
+4. First Servlet -- command line compilation.
+5. First Servlet -- eclipse.

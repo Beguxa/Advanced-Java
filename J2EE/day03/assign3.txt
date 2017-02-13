@@ -1,0 +1,2 @@
+1. Hello JSP in Tomcat.
+2. BookShop using Servlet + PurchaseServlet.
